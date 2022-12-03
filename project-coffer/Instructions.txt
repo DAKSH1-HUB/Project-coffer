@@ -1,0 +1,7 @@
+Instructions:
+
+In this project I have used web scarping for collecting text data from multiple websites and performed sentiment analysis. I completed
+this project as a case study given from a company Black coffer. 
+
+Thank you
+Daksh Arora
