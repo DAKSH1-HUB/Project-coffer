@@ -20,7 +20,7 @@ Output
 
 Live link
 
-https://drive.google.com/file/d/1OZCKByDSI8p8boHTJIxs0RmcF8W_x_F8/view?usp=sharing
-Please open the above link in google colab
+https://colab.research.google.com/drive/1inZXxZg6uWeTh8_1IUmp5ipgeCEM5il6?usp=sharing
+
 
 
