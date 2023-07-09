@@ -11,8 +11,8 @@ this project as a case study given from a company Black coffer.
 ### Following Paramaters have been used to analyse the sentiments of each text article. 
 I converted the text into a list of tokens using the nltk tokenize module and use these tokens to calculate the 4 variables described below:
 #### Scores
-* Positive Score: This score is calculated by assigning the value of +1 for each word if found in the Positive Dictionary and then adding up all the values.
-* Negative Score: This score is calculated by assigning the value of -1 for each word if found in the Negative Dictionary and then adding up all the values. We multiply the score with -1 so that the score is a positive number.
+* Positive Score: This score is calculated by assigning the value of +1 for each word if found in the Positive Dictionary and then adding up all the values.</br>
+* Negative Score: This score is calculated by assigning the value of -1 for each word if found in the Negative Dictionary and then adding up all the values. We multiply the score with -1 so that the score is a positive number.</br>
 * Polarity Score: This is the score that determines if a given text is positive or negative in nature. It is calculated by using the formula: 
   Polarity Score = (Positive Score – Negative Score)/ ((Positive Score + Negative Score) + 0.000001)
   Range is from -1 to +1
@@ -22,9 +22,9 @@ I converted the text into a list of tokens using the nltk tokenize module and us
 
 #### Analysis of Readability
 Analysis of Readability is calculated using the Gunning Fox index formula described below.
-Average Sentence Length = the number of words / the number of sentences
-Percentage of Complex words = the number of complex words / the number of words 
-Fog Index = 0.4 * (Average Sentence Length + Percentage of Complex words)
+Average Sentence Length = the number of words / the number of sentences</br>
+Percentage of Complex words = the number of complex words / the number of words</br> 
+Fog Index = 0.4 * (Average Sentence Length + Percentage of Complex words)</br>
 
 #### Average Number of Words Per Sentence
 The formula for calculating is:
