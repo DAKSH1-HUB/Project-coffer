@@ -1,4 +1,4 @@
-# Project-coffer
+# Sentiment Analysis
 Methodology
 
 Data collection(web scraping) ---> Data Pre-processing(removing stop words,punctuations..) ---> Sentiment Analysis(finding positive score,negative score, polarity index, fog index..)
